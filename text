@@ -1,3 +1,0 @@
- 
-create user 'node'@'localhost' identified by 'NodeJS12$'
-Database: 'node_api'
